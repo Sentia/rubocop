@@ -17,5 +17,5 @@ Replace the `<version>` with your chosen version.
 # .rubocop.yml
 inherit_from:
   - https://raw.githubusercontent.com/Sentia/rubocop/v1/.rubocop-sentia.yml
-	- .rubocop_todo.yml
+  - .rubocop_todo.yml
 ```
