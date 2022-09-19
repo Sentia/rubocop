@@ -6,7 +6,7 @@ Metrics/AbcSize:
   Max: 35
 Metrics/BlockLength:
   Enabled: true
-  Max: 5
+  Max: 10
   AllowedMethods:
     - context
     - describe
